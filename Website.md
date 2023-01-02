@@ -1,0 +1,1 @@
+1. 如需上传github，则图片链接应为`assets/img.jpg`，注意斜杠方向

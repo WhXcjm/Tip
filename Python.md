@@ -1,0 +1,1 @@
+1. [生成列表简单写法](https://www.jb51.net/article/196148.htm) e.g. `["%s%d"%(x,y) for x in list2 for y in list1]`
